@@ -9,7 +9,7 @@ For more information, [see About](About.md) and [the SBLGNT website](https://sbl
 
 <table>
 <tr><td><b>Version</b></td><td><b>Date</b></td><td><b>Description</b></td></tr>
-<tr><td>v1.2</td><td>2023-07-10</td><td>Add Jn 7:53-8:11 (Pericope Adulturae)</td></tr>
+<tr><td>v1.2</td><td>2023-07-10</td><td>Add Jn 7:53-8:11 (Pericope Adulterae)</td></tr>
 <tr><td>v1.1</td><td>2022-12-19</td><td>Update public version and license on github</td></tr>
 <tr><td>v1.0</td><td>2010-10-01</td><td>Initial release of SBLGNT</td></tr>
 </table>
