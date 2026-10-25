@@ -24,7 +24,7 @@ For example, the exegetical habits of some scholars and students seem to reflect
 With a mindset such as this, it is not surprising that entire commentaries have been written that simply take the standard text as printed and scarcely discuss textual matters.
 
 In circumstances such as these, the existence of an alternative critically edited text—the SBLGNT differs from the standard text in more than 540 variation units—will help to remind readers of the Greek New Testament that the text-critical task is not finished.
-Moreover, by reminding readers of the continuing need to pay attention to the variant readings preserved in the textual tradition, it may also serve to draw attention to a fuller understanding of the goal of New Testament textual criticism: both indentifying the earliest text and also studying all the variant readings for the light they shed on how particular individuals and faith communities adopted, used, and sometimes altered the texts that they read, studied, and transmitted.
+Moreover, by reminding readers of the continuing need to pay attention to the variant readings preserved in the textual tradition, it may also serve to draw attention to a fuller understanding of the goal of New Testament textual criticism: both identifying the earliest text and also studying all the variant readings for the light they shed on how particular individuals and faith communities adopted, used, and sometimes altered the texts that they read, studied, and transmitted.
 
 ## Acknowledgements
 
